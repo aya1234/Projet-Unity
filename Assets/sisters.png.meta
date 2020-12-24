@@ -1,0 +1,1646 @@
+fileFormatVersion: 2
+guid: 630dc02e3a0bf664bac8492b07233024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6406618560027538411
+    second: sisters_0
+  - first:
+      213: 2841929949779109531
+    second: sisters_1
+  - first:
+      213: 2666015409286127275
+    second: sisters_2
+  - first:
+      213: 121458128697879483
+    second: sisters_3
+  - first:
+      213: 8257080397445558446
+    second: sisters_4
+  - first:
+      213: 7095846943604782547
+    second: sisters_5
+  - first:
+      213: -7129760190181592430
+    second: sisters_6
+  - first:
+      213: -6307840636132178525
+    second: sisters_7
+  - first:
+      213: 5424062670909816056
+    second: sisters_8
+  - first:
+      213: -3215826841619611785
+    second: sisters_9
+  - first:
+      213: -4155268089930217724
+    second: sisters_10
+  - first:
+      213: -7008120507068594271
+    second: sisters_11
+  - first:
+      213: -7579171777692941758
+    second: sisters_12
+  - first:
+      213: -3029635644570602572
+    second: sisters_13
+  - first:
+      213: 8724131046384488375
+    second: sisters_14
+  - first:
+      213: 272146480349552869
+    second: sisters_15
+  - first:
+      213: 5591729930549074105
+    second: sisters_16
+  - first:
+      213: 9219237277305268201
+    second: sisters_17
+  - first:
+      213: -3216909397254452431
+    second: sisters_18
+  - first:
+      213: 2522998167169988823
+    second: sisters_19
+  - first:
+      213: 1624085847535545110
+    second: sisters_20
+  - first:
+      213: -4756661429106831734
+    second: sisters_21
+  - first:
+      213: 1805719714074614131
+    second: sisters_22
+  - first:
+      213: -3129809727802789579
+    second: sisters_23
+  - first:
+      213: 6241393440933656556
+    second: sisters_24
+  - first:
+      213: -7270000057309557537
+    second: sisters_25
+  - first:
+      213: 8090290139055677234
+    second: sisters_26
+  - first:
+      213: -3316216837565220166
+    second: sisters_27
+  - first:
+      213: 6660562604771218723
+    second: sisters_28
+  - first:
+      213: -7315051410720132402
+    second: sisters_29
+  - first:
+      213: 3705597092170028494
+    second: sisters_30
+  - first:
+      213: -1316472080738845204
+    second: sisters_31
+  - first:
+      213: -6406800959313725796
+    second: sisters_32
+  - first:
+      213: -909261412813218127
+    second: sisters_33
+  - first:
+      213: -6646886271628762508
+    second: sisters_34
+  - first:
+      213: 5147199501658002571
+    second: sisters_35
+  - first:
+      213: -4726266128648935683
+    second: sisters_36
+  - first:
+      213: 1973244847834661456
+    second: sisters_37
+  - first:
+      213: 970541807320362144
+    second: sisters_38
+  - first:
+      213: 2488019411226703459
+    second: sisters_39
+  - first:
+      213: 3531218453304423390
+    second: sisters_40
+  - first:
+      213: -2710630878324046239
+    second: sisters_41
+  - first:
+      213: 1666565600696563599
+    second: sisters_42
+  - first:
+      213: -7234519858633272802
+    second: sisters_43
+  - first:
+      213: -6014474721371123141
+    second: sisters_44
+  - first:
+      213: 4720430725348880851
+    second: sisters_45
+  - first:
+      213: -194320421851634975
+    second: sisters_46
+  - first:
+      213: 3576271840647566047
+    second: sisters_47
+  - first:
+      213: 822018811654518794
+    second: sisters_48
+  - first:
+      213: -5767328773725211624
+    second: sisters_49
+  - first:
+      213: -7569412626888087145
+    second: sisters_50
+  - first:
+      213: -5061601891075696048
+    second: sisters_51
+  - first:
+      213: 1656242291473150679
+    second: sisters_52
+  - first:
+      213: 2646190522257174748
+    second: sisters_53
+  - first:
+      213: 2578525531605584464
+    second: sisters_54
+  - first:
+      213: -551491123602132264
+    second: sisters_55
+  - first:
+      213: -8240377143694469504
+    second: sisters_56
+  - first:
+      213: -4921768204177305930
+    second: sisters_57
+  - first:
+      213: 2808309285412051869
+    second: sisters_58
+  - first:
+      213: -3523911983233140523
+    second: sisters_59
+  - first:
+      213: -532463870463272055
+    second: sisters_60
+  - first:
+      213: -3901642631494190553
+    second: sisters_61
+  - first:
+      213: 4882461856896746775
+    second: sisters_62
+  - first:
+      213: -8421581897350120670
+    second: sisters_63
+  - first:
+      213: -6107517521127268394
+    second: sisters_64
+  - first:
+      213: -4777612066960133789
+    second: sisters_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sisters_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 490
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bdd9f2a1e8e850800000000000000
+      internalID: 6406618560027538411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 490
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a02d6b30907720800000000000000
+      internalID: 2841929949779109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 490
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae973cb3e69ff420800000000000000
+      internalID: 2666015409286127275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 490
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbee1846818fa100800000000000000
+      internalID: 121458128697879483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 490
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07593afda079270800000000000000
+      internalID: 8257080397445558446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 532
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ba162333897260800000000000000
+      internalID: 7095846943604782547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 532
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923182d1e00e0d90800000000000000
+      internalID: -7129760190181592430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 532
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5419f9c5c0678a0800000000000000
+      internalID: -6307840636132178525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 532
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3903e244264b40800000000000000
+      internalID: 5424062670909816056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 486
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb81696861f53d0800000000000000
+      internalID: -3215826841619611785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_10
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 486
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407813110b58556c0800000000000000
+      internalID: -4155268089930217724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 486
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7cb0987872ebe90800000000000000
+      internalID: -7008120507068594271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 486
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24242f2ac6f51d690800000000000000
+      internalID: -7579171777692941758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 392
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f186de6294f5d0800000000000000
+      internalID: -3029635644570602572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf44b9d6f6521970800000000000000
+      internalID: 8724131046384488375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0ab1038cbd6c300800000000000000
+      internalID: 272146480349552869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81c4edeb0d99d40800000000000000
+      internalID: 5591729930549074105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e1d5457f41ff70800000000000000
+      internalID: 9219237277305268201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 392
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b480672fd3b53d0800000000000000
+      internalID: -3216909397254452431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 392
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f023377d730320800000000000000
+      internalID: 2522998167169988823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b681b3979e98610800000000000000
+      internalID: 1624085847535545110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0941d1a1fcfdb0800000000000000
+      internalID: -4756661429106831734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379565943843f0910800000000000000
+      internalID: 1805719714074614131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b0cf82aea094d0800000000000000
+      internalID: -3129809727802789579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7bd462442ed9650800000000000000
+      internalID: 6241393440933656556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8efa4775cb1b90800000000000000
+      internalID: -7270000057309557537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 291
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f524c640c764070800000000000000
+      internalID: 8090290139055677234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 291
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba71c63b5e6af1d0800000000000000
+      internalID: -3316216837565220166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 292
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32593ad56621f6c50800000000000000
+      internalID: 6660562604771218723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 292
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27e4eaf77bb7a90800000000000000
+      internalID: -7315051410720132402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 292
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d3871cecec6330800000000000000
+      internalID: 3705597092170028494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 292
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced77d61e93fabde0800000000000000
+      internalID: -1316472080738845204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_32
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 291
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963971e8787617a0800000000000000
+      internalID: -6406800959313725796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 290
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5c410097a163f0800000000000000
+      internalID: -909261412813218127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 290
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472a525172481c3a0800000000000000
+      internalID: -6646886271628762508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_35
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 290
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84946cfca68e6740800000000000000
+      internalID: 5147199501658002571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_36
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 290
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66bef2ffde86eb0800000000000000
+      internalID: -4726266128648935683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 188
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520e020cbf526b10800000000000000
+      internalID: 1973244847834661456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aceef0b1ae087d00800000000000000
+      internalID: 970541807320362144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b170f878378220800000000000000
+      internalID: 2488019411226703459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b38d5978610130800000000000000
+      internalID: 3531218453304423390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664a44e397e16ad0800000000000000
+      internalID: -2710630878324046239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8777608594d02710800000000000000
+      internalID: 1666565600696563599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1297a9c482d99b90800000000000000
+      internalID: -7234519858633272802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_44
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329b126b1b488ca0800000000000000
+      internalID: -6014474721371123141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_45
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 187
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1724b1cb6528140800000000000000
+      internalID: 4720430725348880851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_47
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 187
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d70a8a4871a130800000000000000
+      internalID: 3576271840647566047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_48
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 188
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a083b5301c5686b00800000000000000
+      internalID: 822018811654518794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143833790556ffa0800000000000000
+      internalID: -5767328773725211624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 125
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799aafff15b04f690800000000000000
+      internalID: -7569412626888087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 134
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05adcf7c5e391c9b0800000000000000
+      internalID: -5061601891075696048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 138
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27c35c6972cf610800000000000000
+      internalID: 1656242291473150679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 138
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f427824829b420800000000000000
+      internalID: 2646190522257174748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 138
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a40a33f43c8c320800000000000000
+      internalID: 2578525531605584464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 138
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2f9e8beb5b858f0800000000000000
+      internalID: -551491123602132264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_56
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d7dea5ac44ad80800000000000000
+      internalID: -8240377143694469504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be033b15ed52bbb0800000000000000
+      internalID: -4921768204177305930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 98
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9a608a6e19f620800000000000000
+      internalID: 2808309285412051869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_59
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 98
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d875a3c8bc881fc0800000000000000
+      internalID: -3523911983233140523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_61
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 98
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab44dc2b49ad9c0800000000000000
+      internalID: -3901642631494190553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_62
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71589b1c03df1c340800000000000000
+      internalID: 4882461856896746775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_63
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf59142e7802b80800000000000000
+      internalID: -8421581897350120670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_64
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1cbd6c2dbd3ba0800000000000000
+      internalID: -6107517521127268394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sisters_65
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b832532382bdb0800000000000000
+      internalID: -4777612066960133789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

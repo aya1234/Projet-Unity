@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: e807909512fe6344783f7e74a26c7343
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3120308365709712214
+    second: medusa fin_0
+  - first:
+      213: -3307359232741917858
+    second: medusa fin_1
+  - first:
+      213: -6784599917350629465
+    second: medusa fin_2
+  - first:
+      213: 8498772595353174828
+    second: medusa fin_3
+  - first:
+      213: -6098674846552065117
+    second: medusa fin_4
+  - first:
+      213: -5075348649940372331
+    second: medusa fin_5
+  - first:
+      213: 1578169795720519553
+    second: medusa fin_6
+  - first:
+      213: 7834104707505823419
+    second: medusa fin_7
+  - first:
+      213: -4569435920867652141
+    second: medusa fin_8
+  - first:
+      213: -5697673376293904874
+    second: medusa fin_9
+  - first:
+      213: 3403031163496582346
+    second: medusa fin_10
+  - first:
+      213: -7199023227456923414
+    second: medusa fin_11
+  - first:
+      213: 3965752341091070647
+    second: medusa fin_12
+  - first:
+      213: 6680543805563339957
+    second: medusa fin_13
+  - first:
+      213: -929312312829930219
+    second: medusa fin_14
+  - first:
+      213: -6243354633723827015
+    second: medusa fin_15
+  - first:
+      213: 6726670580233597362
+    second: medusa fin_16
+  - first:
+      213: -1212429817151978933
+    second: medusa fin_17
+  - first:
+      213: 6941559439874267425
+    second: medusa fin_18
+  - first:
+      213: -7601189045608102725
+    second: medusa fin_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medusa fin_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 419
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9ecf2def8d4b20800000000000000
+      internalID: 3120308365709712214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 419
+        width: 166
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b3fcb0d46e912d0800000000000000
+      internalID: -3307359232741917858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 419
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcb2f425248d1a0800000000000000
+      internalID: -6784599917350629465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 419
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c9d4a5a4b1f570800000000000000
+      internalID: 8498772595353174828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 419
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab77aa0a872d5ba0800000000000000
+      internalID: -6098674846552065117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 419
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bb011b4db099b0800000000000000
+      internalID: -5075348649940372331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 419
+        width: 114
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1c255119c6e510800000000000000
+      internalID: 1578169795720519553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 419
+        width: 148
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe991089b458bc60800000000000000
+      internalID: 7834104707505823419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 235
+        width: 115
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd06c86d3a1690c0800000000000000
+      internalID: -4569435920867652141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 235
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1dc7704ccde0b0800000000000000
+      internalID: -5697673376293904874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 235
+        width: 401
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4ccb20def93f20800000000000000
+      internalID: 3403031163496582346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 235
+        width: 201
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d4a5448ee71c90800000000000000
+      internalID: -7199023227456923414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_12
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 235
+        width: 167
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b238e52ebe290730800000000000000
+      internalID: 3965752341091070647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 153
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40a05323f06bc50800000000000000
+      internalID: 6680543805563339957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 330
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515106c006b6a13f0800000000000000
+      internalID: -929312312829930219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 18
+        width: 346
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42809941859c2fe0800000000000000
+      internalID: -1212429817151978933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 18
+        width: 327
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12917f8588f555060800000000000000
+      internalID: 6941559439874267425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medusa fin_19
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 18
+        width: 342
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb440f9f5d6238690800000000000000
+      internalID: -7601189045608102725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
